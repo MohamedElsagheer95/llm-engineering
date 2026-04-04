@@ -66,6 +66,7 @@ to extract football league standings from dynamic websites and present them in a
 
 <h2>👨‍💻 Author</h2>
 <p>
+  Mohamed ElSagheer<br>
 AI Engineer<br>
 📧 mohamed.elsagheer@eng.sohag.edu.eg
 </p>
