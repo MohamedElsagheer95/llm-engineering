@@ -1,44 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Football Scraper</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            background-color: #0f172a;
-            color: #e2e8f0;
-        }
-        h1, h2, h3 {
-            color: #38bdf8;
-        }
-        code {
-            background: #1e293b;
-            padding: 5px;
-            border-radius: 5px;
-        }
-        pre {
-            background: #1e293b;
-            padding: 15px;
-            border-radius: 10px;
-            overflow-x: auto;
-        }
-        .container {
-            max-width: 900px;
-            margin: auto;
-        }
-        .badge {
-            background: #22c55e;
-            padding: 5px 10px;
-            border-radius: 8px;
-            margin-right: 5px;
-        }
-    </style>
-</head>
-<body>
-<div class="container">
+
 
 <h1>⚽ AI-Powered Football League Scraper & Formatter</h1>
 
