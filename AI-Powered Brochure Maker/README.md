@@ -125,25 +125,7 @@ Final output
 </div>
 
 <div class="box">
-  <h2>📁 Project Structure</h2>
-  <pre>
-ai-brochure-maker/
-│
-├── scraper.py
-├── notebook.ipynb
-├── main.py
-├── requirements.txt
-└── README.md
-  </pre>
-</div>
-
-<div class="box">
-  <h2>🚀 Installation</h2>
-  <pre>
-git clone https://github.com/your-username/ai-brochure-maker.git
-cd ai-brochure-maker
-pip install -r requirements.txt
-  </pre>
+ 
 </div>
 
 <div class="box">
