@@ -129,17 +129,7 @@ Final output
 </div>
 
 <div class="box">
-  <h2>▶️ Usage</h2>
-  <pre>
-from main import generate_brochure
-
-url = "https://example.com"
-brochure = generate_brochure(url)
-
-print(brochure)
-  </pre>
-</div>
-
+ 
 <div class="box">
   <h2>⭐ Support</h2>
   <p>If you like this project, give it a ⭐ on GitHub.</p>
