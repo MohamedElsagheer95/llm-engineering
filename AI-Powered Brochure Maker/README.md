@@ -1,6 +1,6 @@
 
 <div class="box">
-  <h1>🚀 AI-Powered Marketing Brochure Maker</h1>
+  <h1>🚀 AI-Powered Brochure Maker</h1>
   <p>
     An intelligent AI system that automatically transforms any company website into a
     high-quality, structured marketing brochure using Large Language Models and web intelligence.
