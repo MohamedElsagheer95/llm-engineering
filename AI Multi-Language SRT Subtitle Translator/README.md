@@ -6,7 +6,7 @@
 </head>
 <body>
 
-  <h1>🚀 AI SRT Subtitle Translator</h1>
+  <h1>🚀 AI Multi-Language SRT Subtitle Translator</h1>
 
   <p>
     This Python project translates <code>.srt</code> subtitle files from English to any language
