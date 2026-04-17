@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>YouTube AI Summarizer - README</title>
+  
 </head>
 
 <body>
@@ -62,15 +62,6 @@ summerize_video(url)
 5. Display result
 </pre>
 
-<h2>License</h2>
-<p>
-This project is for educational and research purposes.
-</p>
-
-<h2>Author</h2>
-<p>
-Developed as an AI-powered YouTube summarization system.
-</p>
 
 </body>
 </html>
