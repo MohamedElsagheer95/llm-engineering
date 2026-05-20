@@ -55,15 +55,6 @@ ollama run gemma4
 
 ---
 
-## ▶️ Run the Project
-
-```bash
-python app.py
-```
-
-The Gradio interface will open automatically in your browser.
-
----
 
 ## 📊 Example Output
 
