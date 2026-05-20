@@ -27,15 +27,15 @@ The chatbot asks random Machine Learning and Deep Learning questions, receives s
 
 ---
 
-## ⚙️ System Workflow
+## ⚙️ Project Workflow
 
 1. Create SQLite database
-2. Store questions and answers
+2. Insert questions and answers
 3. Fetch random questions
-4. Ask questions using chatbot UI
-5. Collect student responses
+4. Ask questions through chatbot UI
+5. Collect student answers
 6. Evaluate answers using AI
-7. Return final score and feedback
+7. Display scores and feedback
 
 ---
 
@@ -45,3 +45,55 @@ Install required libraries:
 
 ```bash
 pip install openai gradio python-dotenv requests
+```
+
+Run Ollama locally:
+
+```bash
+ollama run gemma4
+```
+
+---
+
+## ▶️ Run the Project
+
+```bash
+python app.py
+```
+
+The Gradio interface will open automatically in your browser.
+
+---
+
+## 📊 Example Output
+
+```json
+{
+  "results": [
+    {
+      "question": "Why is normalization important?",
+      "score": 8,
+      "is_correct": true,
+      "feedback": "Good understanding of normalization."
+    }
+  ],
+  "final_score": 8
+}
+```
+
+---
+
+## 🚀 Future Improvements
+
+- Add authentication system
+- Store exam history
+- Voice input support
+- Add exam timer
+- Export results to PDF
+- Improve scoring accuracy
+
+---
+
+## 👨‍💻 Author
+
+Developed using Python, Gradio, SQLite, and Ollama.
